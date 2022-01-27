@@ -1,5 +1,5 @@
 # Bengali POS Tagging using NLTK on Indian-Corpus
-Indian corpus is a collection of these Indian Languages: Bangla, Hindi, Marathi, and Telugu language data. 
+Indian corpus is a collection of these Indian Languages: Bengali, Hindi, Marathi, and Telugu language data. 
 
 ## Steps:
 
