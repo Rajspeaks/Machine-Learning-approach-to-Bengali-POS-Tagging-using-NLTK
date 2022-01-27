@@ -7,7 +7,7 @@ Indian corpus is a collection of these Indian Languages: Bangla, Hindi, Marathi,
 - Imported indian corpus from NLTK.
 - Stored that Indian Corpus into 'bangla.pos'. 
 - 'bangla.pos' has been stored in a variable 'tagged_set'.
-- Stored the bengali sentences from bengali corpus into word_set variable.
+- Stored the bengali sentences from bengali corpus into 'word_set' variable.
 - Using for loop to count the number of sentences, present in that corpus. 
 
 ## Tools & Library requirements:
