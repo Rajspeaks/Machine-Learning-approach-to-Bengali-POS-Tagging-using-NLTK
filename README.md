@@ -1,7 +1,9 @@
-# Bengali POS Tagging using NLTK on Indian-Corpus
-Indian corpus is a collection of these Indian Languages: Bengali, Hindi, Marathi, and Telugu language data. 
+# Machine Learning approach to Bengali POS Tagging using NLTK on Indian-Corpus
 
-## Steps:
+Indian corpus is a collection of these Indian Languages: Bengali, Hindi, Marathi, and Telugu language data. 
+NLTK is Natural Language Toolkit Library.
+
+## Methodology
 
 - Here I have imported NLTK(Natural Language Tool Kit). 
 - Imported indian corpus from NLTK.
@@ -14,7 +16,11 @@ Indian corpus is a collection of these Indian Languages: Bengali, Hindi, Marathi
 - Google Colab/Jupyter
 - NLTK Library
 
+### Mentor:
+Prof. Sandipan Ganguly
+
+### Developer:
+Rajdeep Das
+
 ### Reference:
 [Click here](https://medium.com/analytics-vidhya/bengali-pos-part-of-speech-tagging-using-indian-corpus-e85f47d3ad65) to read the source article.
-
-&copy;Rajdeep Das
