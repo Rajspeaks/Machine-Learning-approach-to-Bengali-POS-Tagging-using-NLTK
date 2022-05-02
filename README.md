@@ -13,15 +13,19 @@ NLTK is Natural Language Toolkit Library.
 - Using for loop to count the number of sentences, present in that corpus. 
 
 ## Tools & Library requirements:
+
 - Google Colab/Jupyter
 - Language: Python
 - NLTK Library
 
-### Mentor:
+## Mentor:
+
 Prof. Sandipan Ganguly
 
-### Developer:
+## Developer:
+
 Rajdeep Das
 
 ### Reference:
+
 [Click here](https://medium.com/analytics-vidhya/bengali-pos-part-of-speech-tagging-using-indian-corpus-e85f47d3ad65) to read the source article.
