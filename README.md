@@ -14,6 +14,7 @@ NLTK is Natural Language Toolkit Library.
 
 ## Tools & Library requirements:
 - Google Colab/Jupyter
+- Language: Python
 - NLTK Library
 
 ### Mentor:
